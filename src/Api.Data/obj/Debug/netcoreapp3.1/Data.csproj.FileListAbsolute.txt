@@ -1,0 +1,16 @@
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+D:\joaopachiel\source\curso_api_netcore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
