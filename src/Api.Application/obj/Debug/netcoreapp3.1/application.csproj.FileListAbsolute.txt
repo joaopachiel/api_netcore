@@ -68,5 +68,11 @@ D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp
 D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\joaopachiel\source\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cs
+D:\joaopachiel\source\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\application.StaticWebAssets.xml
 D:\joaopachiel\source\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.AssemblyReference.cache
 D:\joaopachiel\source\curso_api_netcore\src\Api.Application\obj\Debug\netcoreapp3.1\application.GeneratedMSBuildEditorConfig.editorconfig
