@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {}
+    "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Data\\Data.csproj": {}
   },
   "projects": {
-    "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+    "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Data\\obj\\",
+        "outputPath": "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -71,8 +71,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,18 +80,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+    "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\joaop\\.nuget\\packages\\",
-        "outputPath": "D:\\joaopachiel\\source\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+        "outputPath": "D:\\joaopachiel\\source\\joaopachiel\\api_netcore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joaop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -126,8 +125,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -136,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
         }
       }
     }
